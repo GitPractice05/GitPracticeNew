@@ -15,6 +15,7 @@ public class FibDemo {
 			f2=f3;
 			System.out.print(" "+f3);
 		}
+		System.out.println("Tst");
 		
 	}
 }
